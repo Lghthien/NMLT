@@ -1,0 +1,21 @@
+I.Bài thực hành 5: Mảng và Chuỗi
+
+Câu 1. Viết chương trình nhập mảng 1 chiều các số nguyên, viết các hàm thực hiện  sau: 
+
+a. Tính tổng các phần tử trong mảng. 
+b. Đếm số lần xuất hiện 1 phần tử x bất kỳ. 
+c. Xuất các phần tử chẵn nhỏ hơn 20. 
+d. Tìm vị trí phần tử nhỏ nhất trong mảng. 
+e. Xuất ra dãy đảo ngược.
+Câu 2. Viết chương trình nhập vào mảng 2 chiều các số nguyên, viết các hàm  sau:
+a. Tìm phần tử lớn nhất của mảng. 
+b.. In ra các phần tử nằm nửa trên đường chéo chính. 
+c. Tìm giá trị nhỏ nhất trên từng dòng của mảng. 
+d. Tìm giá trị lớn nhất trên từng cột của mảng.
+e. Xuất các số nguyên tố trong mảng.
+Câu 3. Viết chương trình nhập vào chuỗi và viết các hàm sau: 
+a.  Xuất các ký tự thường trong chuỗi. 
+b. Đảo ngược các kí tự trong chuỗi (không dùng hàm hỗ trợ) 
+c. In ra chuỗi  ở vị trí chẵn là ký tự viết hoa và ở vị trí lẻ là ký tự viết thường.
+d. In ra các ký tự xuất hiện đúng 1 lần trong chuỗi.
+e.Xoá các khoảng trắng ở đầu và cuối chuỗi

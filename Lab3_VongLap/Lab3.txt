@@ -1,0 +1,13 @@
+I.Bài thực hành 3: Vòng lặp
+
+1. Viết chương trình tính n!, với n là số nguyên dương
+
+2. Viết chương trình tính xn, với x,n là số nguyên dương
+
+3. Viết chương trình tính n!! (n!! = 1 x 3 x 5 x n với n lẻ, 2 x 4 x 6 … n với n chẵn)
+
+4. Nhập vào một số nguyên dương n. Xuất ra số ngược lại. VD: nhập 1907, xuất ra 7091.
+
+5. Viết chương trình in bảng cửu chương ra màn hình.
+
+6. Nhập vào một số nguyên dương n. Đếm số lượng chữ số chẵn/ lẻ của số nguyên dương n

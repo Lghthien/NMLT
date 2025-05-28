@@ -1,0 +1,18 @@
+Câu 1. Sử dụng con trỏ để làm lại các bài tập về mảng một chiều. Viết các hàm sau :
+
+a. Nhập, xuất mảng một chiều 
+b. Tính tổng các phần tử trong mảng. 
+c. Sắp xếp mảng giảm dần. 
+d. Đếm số lần xuất hiện 1 phần tử x bất kỳ (x nhập từ bàn phím)
+e. Xuất các phần tử chẵn nhỏ hơn 20. 
+f. Tìm vị trí phần tử nhỏ nhất trong mảng. 
+g. Xuất ra dãy đảo ngược
+Câu 2. Khai báo kiểu dữ liệu phân số (PHANSO). Viết các hàm sau :
+a. Nhập, Xuất phân số 
+b. Tính tổng, hiệu hai phân số
+c. Tính tích, thương hai phân số 
+Câu 3. Khai báo kiểu dữ liệu điểm (DIEM) trong mặt phẳng OXY. Viết các hàm sau :
+a. Nhập, Xuất tọa độ điểm 
+b. Tính khoảng cách giữa hai điểm 
+c. Tìm điểm đối xứng qua gốc tọa độ
+d. Tìm điểm đối xứng qua trục Ox, trục Oy

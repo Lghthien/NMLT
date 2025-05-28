@@ -1,0 +1,29 @@
+I.Bài thực hành 2: câu lệnh điều khiển
+
+1.Viết chương trình Nhập vào 3 số thực a, b, c. In ra theo thứ tự tăng dần.
+
+Ví dụ : Nhập vào a= 10, b= 15, c = 8
+
+In ra theo thứ tự tăng dần : 8, 10, 15
+
+2.Viết chương trình Giải phương trình bậc hai ax2+bx+c=0
+
+3.Viết chương trình Nhập ba số a, b, c. Kiểm tra xem chúng có thể là độ dài của các cạnh của một tam giác hay không. Nếu có thì cho biết đó là tam giác gì: không phải tam giác, tam giác thường, cân, đều, vuông?
+
+4.Viết chương trình Tính tiền đi taxi từ số km nhập vào. Biết: 1 km đầu giá 15000đ, từ km thứ 2 đến km thứ 5 giá 13500đ, từ km thứ 6 trở đi giá 11000đ, nếu trên 120km được giảm 10% trên tổng số tiền.
+
+Ví dụ : Nhập vào số km : 1 , In ra số tiền 15000 đ
+
+Ví dụ : Nhập vào số km : 2 , In ra số tiền 15000 + 13500 = 28500 đ
+
+5.Viết chương trình Nhập vào tháng và năm (năm> 1975), kiểm tra tính hợp lệ của tháng, năm và cho biết tháng đó có bao nhiêu ngày.
+
+Ví dụ : Nhập vào năm -1 , In ra năm không hợp lệ
+
+Ví dụ : Nhập vào tháng 15 , In ra tháng không hợp lệ
+
+Ví dụ : Nhập vào tháng 3, năm 2000 , In ra tháng có 31 ngày
+
+Ví dụ : Nhập vào tháng 4, năm 2001 , In ra tháng có 30 ngày
+
+Ví dụ : Nhập vào tháng 2, năm 2000 , In ra tháng có 29 ngày

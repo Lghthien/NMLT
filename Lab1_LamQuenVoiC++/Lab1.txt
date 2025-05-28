@@ -1,0 +1,21 @@
+Bài thực hành 1 :
+
+1. Hướng dẫn cài đặt và sử dụng CodeBlock : 
+
+Các em xem file video sau : https://www.youtube.com/watch?v=v7wK0Lx_pNw
+
+2. Viết chương trình thực hiện các bài tập sau, mỗi bài tập viết một chương trình :
+
+a. Cho biết năm sinh của một người và tính tuổi của người đó.
+
+b. Cho 2 số a, b. Tính tổng, hiệu, tích và thương của hai số đó.
+
+c. Cho biết tên sản phẩm, số lượng và đơn giá. Tính tiền và thuế giá trị gia tăng phải trả, biết:
+
+- tiền = số lượng * đơn giá
+
+- thuế giá trị gia tăng = 10% tiền
+
+d. Cho biết điểm thi và hệ số 3 môn Toán, Lý, Hóa của một sinh viên. Tính điểm trung bình của sinh viên đó.
+
+e. Cho biết bán kính của đường tròn. Tính chu vi và diện tích của hình tròn đó.
